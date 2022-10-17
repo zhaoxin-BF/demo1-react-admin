@@ -9,7 +9,9 @@ yarn start
 
 # 使用技术栈
 - 1、Js + react
-- 2、antd 3x 版本组件
+- 2、antd 4x 版本组件
+- 3、图表组件
+- 4、使用函数组件研发+Hooks，抛弃class组件及生命周期函数使用～
 
 # 软件版本
 - node v16.3.0 / v18
